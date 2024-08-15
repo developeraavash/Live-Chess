@@ -1,0 +1,18 @@
+{
+  "name": "livechess",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [
+    "chess",
+    "livechess"
+  ],
+  "author": "naren magar <narenmagarz98@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.57.0",
+    "@typescript-eslint/parser": "^5.57.0",
+    "eslint": "^8.37.0",
+    "prettier": "^2.8.7"
+  }
+}

@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  height: 100vh;
+  font-family:cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.test{
+  /* background-color: #b48d8d; */
+}
+input {
+  font-family: cursive;
+}
+html{
+  font-family: cursive;
+}
+
+button{
+  font-family: cursive;
+  cursor: pointer;
+  transition: 0.1s;
+}

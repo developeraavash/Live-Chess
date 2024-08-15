@@ -1,0 +1,3 @@
+eslint: ESLint core library
+@typescript-eslint/parser: a parser that allows ESLint to understand TypeScript code
+@typescript-eslint/eslint-plugin: plugin with a set of recommended TypeScript rules

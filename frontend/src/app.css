@@ -1,0 +1,38 @@
+.play-btn{
+  border:none;
+  border-radius: 4px;
+  transition: 0.1s;
+  color: #fff;
+  background-color: #e97a31;
+}
+.play-btn:hover{
+  background-color: #cf6925;
+}
+
+.fc-red{
+  color: #cf8525;
+}
+.fw-bold{
+  font-weight: bold;
+}
+
+.primary-btn{
+  background-color: #0456d1;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 3px 6px;
+  margin: 0 5px;
+}
+.primary-btn:hover{
+  background-color: #0b4daf;
+}
+.secondary-btn{
+}
+.d-inline-block{
+  display: inline;
+}
+
+.test{
+  background-color: #e7facf;
+}
